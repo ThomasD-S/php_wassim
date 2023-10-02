@@ -12,4 +12,5 @@ for ($i = 0; $i<$n ; $i++){
 }
     $moyenne = $moyenne / $n;
 echo ' la moyenne est de ' .$moyenne.' / 20 ';
+//pas ouf le code peu mieux faire
 ?>
